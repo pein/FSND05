@@ -11,5 +11,5 @@
 | Mohamed            |     |     |     |     |     |     |
 | Reda AH            |  ✅   | 61% |  ❌    |  ❌   |  ❌    |  ❌   |
 | Ahmed Shebl        | ✅   | 58% |   ❌  |   ❌  |  ❌   |   ❌  |
-| Sura Alani        | ✅   | ❌ |   ❌  |   ❌  |  ❌   |   ❌  |
-
+| Sura Alani         | ✅   | ❌ |   ❌  |   ❌  |  ❌   |   ❌  |
+| Asim Al Rifi       | ✅   | ❌ |   ❌  |   ❌  |  ❌   |   ❌  |
