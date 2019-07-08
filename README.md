@@ -9,4 +9,5 @@
 | Mousaab            |     |     |     |     |     |     |
 | Mahmoud            |     |     |     |     |     |     |
 | Mohamed            |     |     |     |     |     |     |
-| Ahmed Shebl        | ✅   | 58% |     |     |     |     |
+| Reda AH            |  ✅   | 61% |  ❌    |  ❌   |  ❌    |  ❌   |
+| Ahmed Shebl        | ✅   | 58% |   ❌  |   ❌  |  ❌   |   ❌  |
