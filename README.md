@@ -13,3 +13,4 @@
 | Ahmed Shebl        | ✅   | 58% | ❌ | ❌ | ❌  |   ❌  |
 | Sura Alani         | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
+| Mohamed ABDELLANI  | ✅   | 7%  | ❌ | ❌ | ❌  |   ❌  |
