@@ -9,9 +9,11 @@
 | Mousaab            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
 | Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
-| Reda AH ⭐️         | ✅   | 61% | ❌ | ❌ | ❌  |  ❌   |
-| Ahmed Shebl        | ✅   | 58% | ❌ | ❌ | ❌  |   ❌  |
+| Reda AH           | ✅   | 61% | ❌ | ❌ | ❌  |  ❌   |
+| Ahmed Shebl   ⭐️     | ✅   | ✅  | ❌ | ❌ | ❌  |   ❌  |
 | Sura Alani         | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed ABDELLANI  | ✅   | 7%  | ❌ | ❌ | ❌  |   ❌  |
 | Asem Hamdi         | ✅   | ✅  | 50% | ❌ | ❌  |   ❌  |
+| Mohamed ABDELLANI  | ✅   | 27%  | ❌ | ❌ | ❌  |   ❌  |
+| Ahmed El Nemer  | ✅   | ❌  | ✅  | ❌ | ❌  |   ✅  |
