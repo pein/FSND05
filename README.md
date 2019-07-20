@@ -6,12 +6,13 @@
 | Ilyes              | ✅   | 57% | ❌ | ❌ | ❌  | ❌   |
 | Anas               | ✅   | 73% | 40%| ❌ | ❌  | ❌   |
 | Yacine             | ✅   | 60%  | ❌ | ❌ | ❌  |  ❌   |
-| Moussaab            | ✅   | 43%  | ❌ | ❌ | ❌  |  ❌   |
+| Mousaab            | ✅   | 43%  | ❌ | ❌ | ❌  |  ❌   |
 | Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
-| Reda AH          | ✅   | 61% | ❌ | ❌ | ❌  |  ❌   |
-| Ahmed Shebl   ⭐️     | ✅   | ✅  | ❌ | ❌ | ❌  |   ❌  |
+| Reda AH            | ✅   | 61% | ❌ | ❌ | ❌  |  ❌   |
+| Ahmed Shebl   ⭐️   | ✅   | ✅  | ❌ | ❌ | ❌  |   ❌  |
 | Sura Alani         | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
+| Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
 | Mohamed ABDELLANI  | ✅   | 27%  | ❌ | ❌ | ❌  |   ❌  |
-| Ahmed El Nemer  | ✅   | ❌  | ✅  | ❌ | ❌  |   ✅  |
+| Ahmed El Nemer     | ✅   | ❌  | ✅  | ❌ | ❌  |   ✅  |
