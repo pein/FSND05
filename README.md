@@ -9,7 +9,7 @@
 | Mousaab            | ✅   | 43%  | ❌ | ❌ | ❌  |  ❌   |
 | Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
-| Reda AH            | ✅   | 61% | ❌ | ❌ | ❌  |  ❌   |
+| Reda AH            | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
 | Ahmed Shebl   ⭐️   | ✅   | ✅  | ✅ | ❌ | ❌  |   ❌  |
 | Sura Alani         | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
