@@ -14,5 +14,5 @@
 | Sura Alani         | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
-| Mohamed ABDELLANI  | ✅   | 27%  | ❌ | ❌ | ❌  |   ❌  |
+| Mohamed ABDELLANI  | ✅   | 62%  | ❌ | ❌ | ❌  |   ❌  |
 | Ahmed El Nemer     | ✅   | ❌  | ✅  | ❌ | ❌  |   ✅  |
