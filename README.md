@@ -2,14 +2,18 @@
 
 | Students           | P.1 | P.2 | P.3 | P.4 | P.5 | P.6 |
 | ------------------ |:---:|:---:|:---:|:---:|:---:|:---:|
-| Foulan (Graduated) | ✅   | ✅   | ✅   | ✅   | ✅   | ✅   |
-| Ilyes              | ✅   | 57% | ❌   | ❌   | ❌   | ❌   |
-| Anas               | ✅   | 47% | ❌   | ❌   | ❌   | ❌   |
-| Yacine             |     |     |     |     |     |     |
-| Mousaab            |     |     |     |     |     |     |
-| Mahmoud            |     |     |     |     |     |     |
-| Mohamed            |     |     |     |     |     |     |
-| Reda AH            |  ✅   | 61% |  ❌    |  ❌   |  ❌    |  ❌   |
-| Ahmed Shebl        | ✅   | 58% |   ❌  |   ❌  |  ❌   |   ❌  |
-| Sura Alani        | ✅   | 39% |   ❌  |   ❌  |  ❌   |   ❌  |
+| Foulan (Graduated) | ✅   | ✅  | ✅ | ✅ | ✅  | ✅   |
+| Ilyes              | ✅   | 57% | ❌ | ❌ | ❌  | ❌   |
+| Anas               | ✅   | 73% | 40%| ❌ | ❌  | ❌   |
+| Yacine             | ✅   | 60%  | ❌ | ❌ | ❌  |  ❌   |
+| Mousaab            | ✅   | 43%  | ❌ | ❌ | ❌  |  ❌   |
+| Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
+| Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
+| Reda AH            | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
+| Ahmed Shebl   ⭐️   | ✅   | ✅  | ✅ | ❌ | ❌  |   ❌  |
+| Sura Alani         | ✅   |  39% | ❌ | ❌ | ❌  |   ❌  |
+| Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
+| Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
+| Mohamed ABDELLANI  | ✅   | 62%  | ❌ | ❌ | ❌  |   ❌  |
+| Ahmed El Nemer     | ✅   | ❌  | ✅  | ❌ | ❌  |   ✅  |
 
