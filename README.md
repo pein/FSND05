@@ -10,7 +10,7 @@
 | Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
 | Reda AH            | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
-| Ahmed Shebl   ⭐️   | ✅   | ✅  | ✅ | ❌ | ❌  |   ❌  |
+| Ahmed Shebl   ⭐️   | ✅   | ✅  | ✅ | 26% | ❌  |   ❌  |
 | Sura Alani         | ✅   |  39% | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
