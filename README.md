@@ -4,14 +4,18 @@
 | ------------------ |:---:|:---:|:---:|:---:|:---:|:---:|
 | Foulan (Graduated) | ✅   | ✅  | ✅ | ✅ | ✅  | ✅   |
 | Ilyes              | ✅   | 57% | ❌ | ❌ | ❌  | ❌   |
-| Anas               | ✅   | 47% | ❌ | ❌ | ❌  | ❌   |
+| Anas               | ✅   | 73% | 40%| ❌ | ❌  | ❌   |
 | Yacine             | ✅   | 60%  | ❌ | ❌ | ❌  |  ❌   |
 | Moussaab            | ✅   | 65%  | 100% | ❌ | ❌  |  ❌   |
 | Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
-| Reda AH          | ✅   | 61% | ❌ | ❌ | ❌  |  ❌   |
-| Ahmed Shebl   ⭐️     | ✅   | ✅  | ❌ | ❌ | ❌  |   ❌  |
-| Sura Alani         | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
+| Reda AH            | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
+| Ahmed Shebl   ⭐️⭐️   | ✅   | ✅  | ✅ | 26% | ❌  |   ❌  |
+| Sura Alani         | ✅   |  39% | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
-| Mohamed ABDELLANI  | ✅   | 27%  | ❌ | ❌ | ❌  |   ❌  |
-| Ahmed El Nemer  | ✅   | ❌  | ✅  | ❌ | ❌  |   ✅  |
+| Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
+| Mohamed ABDELLANI  | ✅   | 82%  | ❌ | ❌ | ❌  |   ❌  |
+| Ahmed El Nemer ⭐️ (Graduated) | ✅   | ✅  | ✅  | ✅ | ✅  |   ✅  |
+| Ahmed Ibrahim      | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
+
+
