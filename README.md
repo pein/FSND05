@@ -16,4 +16,6 @@
 | Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
 | Mohamed ABDELLANI  | ✅   | ✅  | 27% | ❌ | ❌  |   ❌  |
 | Ahmed El Nemer ⭐️ (Graduated) | ✅   | ✅  | ✅  | ✅ | ✅  |   ✅  |
+| Ahmed Ibrahim      | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
+
 
