@@ -10,7 +10,7 @@
 | Mahmoud            | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Mohamed            | ✅   | ❌  | ❌ | ❌ | ❌  |  ❌   |
 | Reda AH            | ✅   | ✅ | ✅ | ❌ | ❌  |  ❌   |
-| Ahmed Shebl   ⭐️⭐️   | ✅   | ✅  | ✅ | 26% | ❌  |   ❌  |
+| Ahmed Shebl (Graduated)   | ✅   | ✅  | ✅ | ✅ | ✅  |   ✅  |
 | Sura Alani         | ✅   |  39% | ❌ | ❌ | ❌  |   ❌  |
 | Asim Al Rifi       | ✅   | ❌  | ❌ | ❌ | ❌  |   ❌  |
 | Asem Hamdi         | ✅   | ✅  | 61% | ❌ | ❌  |   ❌  |
